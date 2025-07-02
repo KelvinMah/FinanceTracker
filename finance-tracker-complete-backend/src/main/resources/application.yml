@@ -1,5 +1,0 @@
-spring:
-  datasource:
-    url: jdbc:postgresql://localhost:5432/finance_db
-    username: your_db_user
-    password: your_db_password

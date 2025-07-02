@@ -1,1 +1,0 @@
-// JUnit tests for transaction logic

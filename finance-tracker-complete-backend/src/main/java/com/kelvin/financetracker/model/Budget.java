@@ -1,1 +1,0 @@
-// Budget model for each user/category
