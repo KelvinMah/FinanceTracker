@@ -1,0 +1,1 @@
+// JUnit tests for auth logic

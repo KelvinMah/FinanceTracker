@@ -1,0 +1,1 @@
+// RoleRepository extends JpaRepository
